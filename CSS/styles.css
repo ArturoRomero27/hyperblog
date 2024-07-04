@@ -42,3 +42,12 @@ body {
     font-size: 0.8em;
 
 }
+
+#footer {
+    display: flex;
+    background: #777;
+    color: white;
+    justify-content: center;
+    padding: 0.5em;
+
+}
